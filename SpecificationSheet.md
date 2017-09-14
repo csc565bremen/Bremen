@@ -1,4 +1,4 @@
-#### Specification Sheet
+# Specification Sheet
 
 _Summary:_ We are making a webportal which will handle basic needs of Students, Instructors, and the Trip’s Liason.  
 Each will have their own Role-based permissions (what they can see and do on the website) which will vary slightly.  
@@ -9,29 +9,29 @@ Each will have their own Role-based permissions (what they can see and do on the
 
 >> [Note: the role descriptions above are just very brief of each role, not comprehensive.  See below for more information]
 
-### RBAC Roles
+## RBAC Roles
 
-## All Roles / Person Class
-# Access Details
+### All Roles / Person Class
+#### Access Details
 * Thing
 * Thing2
 * Thing3
 
-## Instructor
-# Access Details
+### Instructor
+#### Access Details
 * Thing
 * Thing2
 * Thing3
 
-## Student
-# Access Details
+### Student
+#### Access Details
 * Thing
 * Thing2
 * Thing3
 
 
-## Liason
-# Access Details
+### Liason
+#### Access Details
 * Thing
 * Thing2
 * Thing3
