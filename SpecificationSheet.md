@@ -7,6 +7,8 @@ Each will have their own Role-based permissions (what they can see and do on the
 * `Student` should be able to see their grades and post their weekend plans.  
 * `All Roles` will be able to view full list of contact info, student weekend trip plans, access discussion board, etc.  For each of these 3 roles, we need Use Cases, User Stories, and possibly a spec document that just outlines the role as a whole.  We also need to develop a single db schema to store information for all of these roles in a central place.  And we need to figure out (and possibly mock up) the UI/UX for the website as a whole and each role.    
 
+* Students includes all students in the Bremen program (UNCW & from other Universities)
+
 >> [Note: the role descriptions above are just very brief of each role, not comprehensive.  See below for more information]
 
 ## RBAC Roles
