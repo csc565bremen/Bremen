@@ -13,25 +13,31 @@ Each will have their own Role-based permissions (what they can see and do on the
 
 ### All Roles / Person Class
 #### Access Details
-* Thing
-* Thing2
-* Thing3
+* Emergency Contact List
+* Complete, searcheable contact list of students, instructors, advisors & liason(s)
+* Student Weekend Plans
+* Fill out Questionaires
 
 ### Instructor
 #### Access Details
 * Thing
 * Thing2
-* Thing3
+* Generate Grade Report
 
 ### Student
 #### Access Details
-* Thing
-* Thing2
+* Be able to submit & edit their weekend plans
+* 
 * Thing3
 
 
 ### Liason
 #### Access Details
-* Thing
-* Thing2
+* Generate, View & Print Reports
+  * Contact List
+  * Weekend Plans of all involved
+  * T-shirt Size
+* System admin permission scheme
+  * Add Users
+  * Edit Users
 * Thing3
