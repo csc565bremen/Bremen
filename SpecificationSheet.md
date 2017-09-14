@@ -12,15 +12,26 @@ Each will have their own Role-based permissions (what they can see and do on the
 ### RBAC Roles
 
 ## All Roles / Person Class
-
-
+# Access Details
+* Thing
+* Thing2
+* Thing3
 
 ## Instructor
-
-
+# Access Details
+* Thing
+* Thing2
+* Thing3
 
 ## Student
-
+# Access Details
+* Thing
+* Thing2
+* Thing3
 
 
 ## Liason
+# Access Details
+* Thing
+* Thing2
+* Thing3
