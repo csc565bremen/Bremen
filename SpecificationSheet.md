@@ -1,4 +1,4 @@
-# Specification Sheet
+# General Specification Sheet
 
 _Summary:_ We are making a webportal which will handle basic needs of Students, Instructors, and the Trip’s Liason.  
 Each will have their own Role-based permissions (what they can see and do on the website) which will vary slightly.  
