@@ -19,6 +19,8 @@ Each will have their own Role-based permissions (what they can see and do on the
 * Complete, searcheable contact list of students, instructors, advisors & liason(s)
 * Student Weekend Plans
 * Fill out Questionaires
+* View calendar with deadlines
+* Edit details about user profile, including a profile pictures
 
 ### Instructor
 #### Access Details
@@ -29,9 +31,13 @@ Each will have their own Role-based permissions (what they can see and do on the
 ### Student
 #### Access Details
 * Be able to submit & edit their weekend plans
-* 
-* Thing3
-
+* Access FAQ for students
+* Access a "to do before leaving" list
+* Access currency conversion calculator
+* Access translation system (perhaps via Google translate API)
+* View grade from course
+* Apply for program
+* Check on application status
 
 ### Liason
 #### Access Details
