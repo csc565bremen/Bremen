@@ -24,8 +24,8 @@ Each will have their own Role-based permissions (what they can see and do on the
 
 ### Instructor
 #### Access Details
-* Thing
-* Thing2
+* Creat Submission page for assignments (for upload)
+* Upload content (pdf, docx, ppt, jpeg, etc.)
 * Generate Grade Report
 
 ### Student
@@ -48,4 +48,4 @@ Each will have their own Role-based permissions (what they can see and do on the
 * System admin permission scheme
   * Add Users
   * Edit Users
-* Thing3
+
